@@ -1,6 +1,4 @@
-import logo from './Assets/logo.svg';
 import BeerList from './BeerList';
-import '../Assets/logo.svg';
 
 function App() {
   return (
